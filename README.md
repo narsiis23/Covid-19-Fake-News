@@ -1,2 +1,2 @@
 # Covid-19-Fake-News
-I am just testing Fake News detection approach
+I am just testing a Fake News detection approach
